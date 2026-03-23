@@ -1,0 +1,3 @@
+C:/Users/Unlovable/Desktop/Reverse_Enginiring/ReverseEngineering_TKI_341/Task-2/buble_sort/CMakeFiles/my_program.dir
+C:/Users/Unlovable/Desktop/Reverse_Enginiring/ReverseEngineering_TKI_341/Task-2/buble_sort/CMakeFiles/ALL_BUILD.dir
+C:/Users/Unlovable/Desktop/Reverse_Enginiring/ReverseEngineering_TKI_341/Task-2/buble_sort/CMakeFiles/ZERO_CHECK.dir
