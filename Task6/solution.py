@@ -4,7 +4,7 @@ with open('dev.txt', 'r', encoding='utf-8') as f:
     content = f.read()
 
 months_full = r'(January|February|March|April|May|June|July|August|September|October|November|December)'
-months_short = r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)'
+months_short = r'(Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)'
 day = r'(0?[1-9]|[12][0-9]|30|31)'
 month_numeric = r'(0[1-9]|1[0-2])'
 
